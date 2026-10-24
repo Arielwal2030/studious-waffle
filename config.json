@@ -1,0 +1,14 @@
+{
+  "channel_name": "DailyMindShift",
+  "voice": "en-US-AndrewNeural",
+  "voice_rate": "+8%",
+  "caption_size": 88,
+  "words_per_caption": 6,
+  "font": "",
+  "music_volume": 0.12,
+  "post_time": "17:00",
+  "privacy": "public",
+  "category_id": "22",
+  "description_cta": "Free guide on my channel page.",
+  "affiliate_disclosure": "Some links on my channel page are affiliate links. I may earn a commission at no cost to you."
+}
